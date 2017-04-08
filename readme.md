@@ -1,0 +1,1 @@
+This repository will store Richard Pollak's assignments created for Coding Dojo.
